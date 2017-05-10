@@ -1,0 +1,73 @@
+/* Game board wrapper */
+#memorygame {
+  max-width: 800px;
+}
+
+/* Card styles */
+.quizy-memorygame .mgcard-show {
+  width: 120px;
+  height: 120px;
+  background-color: purple;
+}
+.quizy-memorygame .quizy-mg-item {
+  position: absolute;
+  cursor: pointer;
+}
+.quizy-memorygame img {
+  padding-top: 15px;
+}
+.quizy-memorygame .card-name {
+  padding: 45px 5px;
+  font-size: 16px;
+}
+
+/* Popup Game Results */
+#quizy-game-summary {
+  width: 300px;
+  height: 200px;
+  background: white;
+  border: 2px solid black;
+  display: none;
+  text-align: center;
+}
+#quizy-game-summary div.gs-column{
+      width:75px;
+      float:left;
+      padding:10px 0 10px 20px;
+      color:#fff;
+      text-shadow: 1px 1px 1px rgba(0,0,0, 0.5);
+      text-align:center;
+}
+#quizy-game-summary #gs-column1{
+      font-size:16px;
+      padding-top:30px;
+}
+#quizy-game-summary #gs-column2{
+      font-size:12px;
+      padding-top: 65px;
+}
+#quizy-game-summary #gs-column3{
+      font-size:12px;
+      padding-top: 65px;
+}
+#quizy-game-summary #gs-closebut,
+#quizy-game-summary #gs-replaybut{
+      display: inline-block;
+      margin-top: 10px;
+      width: 70px;
+      padding: 10px;
+      text-align: center;
+      background: #D7EEF0;
+      cursor: pointer;
+}
+#quizy-game-summary #gs-closebut:hover,
+#quizy-game-summary #gs-replaybut:hover{
+      background: #fff;
+}
+#quizy-game-summary #gs-replaybut{
+      margin-right: 20px;
+}
+
+.quizy-game-clear{
+  clear: both;
+}
