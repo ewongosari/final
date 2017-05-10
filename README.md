@@ -55,8 +55,10 @@ My target audience are **adult learners from college age to older who want to le
 * **Pre-assessment:**
   * My pre-assessment is in the form of an interactive matching game that test the learner's prior knowledge about the topic. They have to match instrument picture cards with their respective name cards. In a fun way, learners can find out how much do they already know about identifying music instruments. Then they can navigate to the relevant content that they have not known about.
 
+
 * **Formative assessments:**
   * My formative assessments is in the form of short true or false quizzes provided at the end of each instrument family content. They test how well learners have retained the new information they acquire. The quizzes offer learners the opportunity to re-take them as many times they want after they re-learn the content materials until they are able to reach their desired score.
+
 
 * **Final assessment:**
   * My final assessment is in the form of a short multiple-choice quiz that learners take after they are done exploring all content on music instruments. Based on the inputs, learners are given a recommendation on a music instrument that they can choose to learn.
@@ -80,6 +82,7 @@ My target audience are **adult learners from college age to older who want to le
   * *Scroll to top button* for easier navigation
   * *Social media network links* for spreading the word on my website
   * *Contact us link* to a contact form that can slide up or down to toggle visibility
+
 
 * Here are the **content specifications** for my website:
   * A *welcoming message* in the header image where learners can get a sense of the purpose of the website
@@ -107,11 +110,11 @@ Here is the **sitemap structure** and **navigation design** of my website:
 Here are the **wireframes** for my website:
 
 * Index.html
-  * The home page of my website consists of the things a learner will encounter before the main lesson, such as instructions, introduction to topic, and a short pre-assessment. There is also a section on further resources that the learner can explore after they are done with the lessons and the option to share my website on social media networks if they like it as a learning resource. I think this is important to spread the word to other learners who are looking to learn my topic and to increase my website traffic. Because of the nature of my long webpages, I have fixed the navigation bar to be always at the top while scrolling, and inserted navigation menu to scroll to each information section and scroll buttons for more efficient navigation.
+  * The home page of my website consists of the things a learner will encounter before the main lesson, such as introduction to topic and a short pre-assessment. There is also a section on further resources that the learner can explore after they are done with the lessons and the option to share my website on social media networks if they like it as a learning resource. I think this is important to spread the word to other learners who are looking to learn my topic and to increase my website traffic. Because of the nature of my long webpages, I have fixed the navigation bar to be always at the top while scrolling, and inserted navigation menu to scroll to each information section and scroll buttons for more efficient navigation.
 
 ![Wireframe 1](readmepic/wireframe1.png)
 
 * Instruments.html
-  * The main learning content for my website is situated at this page. Because there are four families of instruments, I have grouped the instruments in each family together using sliding carousels. There is also a final assessment that help learners to choose the best instrument that fit them. Learners can always go back to the home page by clicking on the website logo.
+  * The main learning content for my website is situated at this page. Because there are four families of instruments, I have grouped the instruments in each family together using sliding carousels. Each instrument family has its own formative assessment. There is also a final assessment that help learners to choose the best instrument that fit them. Learners can always go back to the home page by clicking on the website logo.
 
 ![Wireframe 2](readmepic/wireframe2.png)
